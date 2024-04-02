@@ -1,3 +1,3 @@
-# HTML CSS Samples
+I have a certificate in Web Development from GCCAZ and here is where I'll be putting my work.
 
-Free templates and code you can use to help you get started using HTML and CSS.
+Templates that are in this repository are free to use. Other code is not.
